@@ -17,4 +17,4 @@ Everything you need is in the code—just follow the instructions and enjoy! �
 ---
 
 📜 **License:** MIT  
-Everyone is welcome to use and improve the project!
+Everyone is welcome to use and improve the project! 
